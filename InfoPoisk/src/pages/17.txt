@@ -1,0 +1,430 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>Ф. М. Достоевский. Бесы. Текст произведения. Часть вторая. Глава шестая. III</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Федор Достоевский Бесы">
+<META NAME="Description" CONTENT='Федор Достоевский. Бесы. Текст произведения. Источник: Ф. М. Достоевский. Собрание сочинений в 15-ти томах. Том 7. Л.: Наука, 1990. Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;background-image:url(/i/dark_bg_oldpaper.gif);background-position-x:right;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.ang0 {position:relative;width:.6em;height:1.2em}
+.ang {position:absolute;border:.6em solid transparent;width:0px;height:0px}
+.la1 {border-right-color:#222;border-left-width:0px}
+.la2 {left:2px;border-right-color:#e3e0d7;border-left-width:0px}
+.ra1 {left:2px;border-left-color:#222;border-right-width:0em;margin-left:0.46em}
+.ra2 {border-left-color:#e3e0d7;border-right-width:0px;margin-left:0.46em}
+.ha {border-top: 2px solid black;margin-top:-1px}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link rel=stylesheet type="text/css" href="/etc/styles3.css" title="style">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<script>
+lgl=1;
+function ge(e){return document.getElementById(e);}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function showLogin(){var lf=ge("loginFrame");var cw=lf.contentWindow;if(cw.location.pathname!="/loginFrame.phtml"){cw.location.assign("/loginFrame.phtml");}lf.style.display="block";ge("shdw").style.display="block";cw.focus();}
+function Logout(){
+ var r=new XMLHttpRequest();
+ r.open('POST', '/userlogout.phtml', true);
+ r.send();
+ r.onreadystatechange=function() {
+  if (r.readyState === 4) {	
+   if (r.status >= 200 && r.status < 300)
+    document.location.reload(true);
+  }
+ }
+}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+function toggle_sf(){qs_e=ge('qs1');hdr_e=ge('hdr');qi_e=ge('qi1');if (qs_e.className=='qson') {qs_e.className = "qsoff";hdr_e.className="hdr2";qi1.focus()}else{qs_e.className = "qson";hdr_e.className="hdr";}}
+window.addEventListener("click",function(e){
+qs_e=ge('qs1');hdr_e=ge('hdr');qi_e=ge('qi1');thm_e=ge("thm");am1_e=ge("am1");sldr_e=ge("sldr1");
+eid=document.elementFromPoint(e.clientX, e.clientY).id;
+if(am1_e!==null)if(eid!=="am1"&&am1_e.className=="am1min"&&eid!="amm"&&eid!="mmm")am1_e.className="am1";
+if(thm_e!==null)if(eid!=="thm"&&thm_e.className=="thmmin")thm_e.className="thm";
+if(sldr_e!==null){
+	if(eid=="sldr1")showThemes();
+}
+if(eid=="lio"){var m=ge("lio");if(m.innerHTML=="Вход")showLogin();else Logout();}
+if(eid=="sb"||eid=="sb1"){document.forms.sf2.submit();}
+},true);
+</script>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1">
+   <a href="/">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div></form></div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div style="display:flex;justify-content:space-between;flex-direction:column">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/dostoevski/index.html">Ф. М. Достоевский</a>. <a href="/text/1544/index.html">Бесы</a>. <a href="/text/1544/p.43/index.html">Часть вторая</a>. <a href="/text/1544/p.64/index.html">Глава шестая</a></div>
+<h4>III</h4>
+<span class="p"><span class=fi></span>&mdash; Это в каких же вы хлопотах; неужто эти пустяки? &mdash; кивнул он на прокламацию. &mdash; Я вам таких листков сколько угодно натаскаю, еще в X &mdash; ской губернии познакомился.</span>
+<span class="p"><span class=fi></span>&mdash; То есть в та время, как вы там проживали?</span>
+<span class="p"><span class=fi></span>&mdash; Ну, разумеется, не в мое отсутствие. Еще она с виньеткой, топор наверху нарисован. Позвольте (он взял прокламацию); ну да, топор и тут; та самая, точнехонько.</span>
+<span class="p"><span class=fi></span>&mdash; Да, топор. Видите &mdash; топор.</span>
+<span class="p"><span class=fi></span>&mdash; Что ж, топора испугались?</span>
+<span class="p"><span class=fi></span>&mdash; Я не топора-с... и не испугался-с, но дело это... дело такое, тут обстоятельства.</span>
+<span class="p"><span class=fi></span>&mdash; Какие? Что с фабрики-то принесли? Хе-хе. А знаете, у вас на этой фабрике сами рабочие скоро будут писать прокламации.</span>
+<span class="p"><span class=fi></span>&mdash; Как это? &mdash; строго уставился фон Лембке.</span>
+<span class="p"><span class=fi></span>&mdash; Да так. Вы и смотрите на них. Слишком вы мягкий человек, Андрей Антонович; романы пишете. А тут надо бы по-старинному.</span>
+<span class="p"><span class=fi></span>&mdash; Что такое по-старинному, что за советы? Фабрику вычистили; я велел, и вычистили.</span>
+<span class="p"><span class=fi></span>&mdash; А между рабочими бунт. Перепороть их сплошь, и дело с концом.</span>
+<span class="p"><span class=fi></span>&mdash; Бунт? Вздор это; я велел, и вычистили.</span>
+<span class="p"><span class=fi></span>&mdash; Эх, Андрей Антонович, мягкий вы человек!</span>
+<span class="p"><span class=fi></span>&mdash; Я, во-первых, вовсе не такой уж мягкий, а во-вторых... &mdash; укололся было опять фон Лембке. Он разговаривал с молодым человеком через силу, из любопытства, не скажет ли тот чего новенького.</span>
+<span class="p"><span class=fi></span>&mdash; А-а, опять старая знакомая! &mdash; перебил Петр Степанович, нацелившись на другую бумажку под пресс-папье, тоже вроде прокламации, очевидно заграничной печати, но в стихах. &mdash; Ну, эту я наизусть знаю: &laquo;Светлая личность&raquo;! Посмотрим; ну так, &laquo;Светлая личность&raquo; и есть. Знаком с этой личностью еще с заграницы. Где откопали?</span>
+<span class="p"><span class=fi></span>&mdash; Вы говорите, что видели за границей? &mdash; встрепенулся фон Лембке.</span>
+<span class="p"><span class=fi></span>&mdash; Еще бы, четыре месяца назад или даже пять.</span>
+<span class="p"><span class=fi></span>&mdash; Как много вы, однако, за границей видели, &mdash; тонко посмотрел фон Лембке. Петр Степанович, не слушая, развернул бумажку и прочел вслух стихотворение:</span>
+<h5>Светлая личность</h5>
+<div id="pt1" style="margin:0em auto;display:table"><span class="pm"><span class="p"><span class=fi></span><span class="vl"><span class="i1"></span>Он незнатной был породы,<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all>
+<span class="vl"><span class="i1"></span>Он возрос среди народа,<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all>
+<span class="vl"><span class="i1"></span>Но, гонимый местью царской,<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all>
+<span class="vl"><span class="i1"></span>Злобной завистью боярской,<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all>
+<span class="vl"><span class="i1"></span>Он обрек себя страданью,<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all>
+<span class="vl"><span class="i1"></span>Казням, пыткам, истязанью<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all>
+<span class="vl"><span class="i1"></span>И пошел вещать народу<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all>
+<span class="vl"><span class="i1"></span>Братство, равенство, свободу.<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all></span>
+<span class="p"><span class=fi></span><span class="vl"><span class="i1"></span>И, восстанье начиная,<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all>
+<span class="vl"><span class="i1"></span>Он бежал в чужие краи<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all>
+<span class="vl"><span class="i1"></span>Из царева каземата,<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all>
+<span class="vl"><span class="i1"></span>От кнута, щипцов и ката.<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all>
+<span class="vl"><span class="i1"></span>А народ, восстать готовый<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all>
+<span class="vl"><span class="i1"></span>Из-под участи суровой,<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all>
+<span class="vl"><span class="i1"></span>От Смоленска до Ташкента<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all>
+<span class="vl"><span class="i1"></span>С нетерпеньем ждал студента.<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all></span>
+<span class="p"><span class=fi></span><span class="vl"><span class="i1"></span>Ждал его он поголовно,<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all>
+<span class="vl"><span class="i1"></span>Чтоб идти беспрекословно<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all>
+<span class="vl"><span class="i1"></span>Порешить вконец боярство,<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all>
+<span class="vl"><span class="i1"></span>Порешить совсем и царство,<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all>
+<span class="vl"><span class="i1"></span>Сделать общими именья<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all>
+<span class="vl"><span class="i1"></span>И предать навеки мщенью<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all>
+<span class="vl"><span class="i1"></span>Церкви, браки и семейство&nbsp;&mdash;<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all>
+<span class="vl"><span class="i1"></span>Мира старого злодейство!<span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span><span class="i2"></span></span><br clear=all></span></span></div>
+<script>poems.push(document.getElementById("pt1"));</script>
+
+<span class="p"><span class=fi></span>&mdash; Должно быть, у того офицера взяли, а? &mdash; спросил Петр Степанович.</span>
+<span class="p"><span class=fi></span>&mdash; А вы и того офицера изволите знать?</span>
+<span class="p"><span class=fi></span>&mdash; Еще бы. Я там с ними два дня пировал. Ему так и надо было сойти с ума.</span>
+<span class="p"><span class=fi></span>&mdash; Он, может быть, и не сходил с ума.</span>
+<span class="p"><span class=fi></span>&mdash; Не потому ли, что кусаться начал?</span>
+<span class="p"><span class=fi></span>&mdash; Но, позвольте, если вы видели эти стихи за границей и потом, оказывается, здесь, у того офицера...</span>
+<span class="p"><span class=fi></span>&mdash; Что? замысловато! Вы, Андрей Антонович, меня, как вижу, экзаменуете? Видите-с, &mdash; начал он вдруг с необыкновенною важностью, &mdash; о том, что я видел за границей, я, возвратясь, уже кой-кому объяснил, и объяснения мои найдены удовлетворительными, иначе я не осчастливил бы моим присутствием здешнего города. Считаю, что дела мои в этом смысле покончены, и никому не обязан отчетом. И не потому покончены, что я доносчик, а потому, что не мог иначе поступить. Те, которые писали Юлии Михайловне, зная дело, писали обо мне как о человеке честном... Ну, это всё, однако же, к черту, а я вам пришел сказать одну серьезную вещь, и хорошо, что вы этого трубочиста вашего выслали. Дело для меня важное, Андрей Антонович; будет одна моя чрезвычайная просьба к вам.</span>
+<span class="p"><span class=fi></span>&mdash; Просьба? Гм, сделайте одолжение, я жду, и, признаюсь, с любопытством. И вообще прибавлю, вы меня довольно удивляете, Петр Степанович.</span>
+<span class="p"><span class=fi></span>Фон Лембке был в некотором волнении. Петр Степанович закинул ногу за ногу.</span>
+<span class="p"><span class=fi></span>&mdash; В Петербурге, &mdash; начал он, &mdash; я насчет многого был откровенен, но насчет чего-нибудь или вот этого, например (он стукнул пальцем по &laquo;Светлой личности&raquo;), я умолчал, во-первых, потому, что не стоило говорить, а во-вторых, потому, что объявлял только о том, о чем спрашивали. Не люблю в этом смысле сам вперед забегать; в этом и вижу разницу между подлецом и честным человеком, которого просто-запросто накрыли обстоятельства... Ну, одним словом, это в сторону. Ну-с, а теперь... теперь, когда эти дураки... ну, когда это вышло наружу и уже у вас в руках и от вас, я вижу, не укроется &mdash; потому что вы человек с глазами и вас вперед не распознаешь, а эти глупцы между тем продолжают, я... я... ну да, я, одним словом, пришел вас просить спасти одного человека, одного тоже глупца, пожалуй сумасшедшего, во имя его молодости, несчастий, во имя вашей гуманности... Не в романах же одних собственного изделия вы так гуманны! &mdash; с грубым сарказмом и в нетерпении оборвал он вдруг речь.</span>
+<span class="p"><span class=fi></span>Одним словом, было видно человека прямого, но неловкого и неполитичного, от избытка гуманных чувств и излишней, может быть, щекотливости, главное, человека недалекого, как тотчас же с чрезвычайною тонкостью оценил фон Лембке и как давно уже об нем полагал, особенно когда в последнюю неделю, один в кабинете, по ночам особенно, ругал его изо всех сил про себя за необъяснимые успехи у Юлии Михайловны.</span>
+<span class="p"><span class=fi></span>&mdash; За кого же вы просите и что же это всё означает? &mdash; сановито осведомился он, стараясь скрыть свое любопытство.</span>
+<span class="p"><span class=fi></span>&mdash; Это... это... черт... Я не виноват ведь, что в вас верю! Чем же я виноват, что почитаю вас за благороднейшего человека и, главное, толкового... способного то есть понять... черт...</span>
+<span class="p"><span class=fi></span>Бедняжка, очевидно, не умел с собой справиться.</span>
+<span class="p"><span class=fi></span>&mdash; Вы, наконец, поймите, &mdash; продолжал он, &mdash; поймите, что, называя вам его имя, я вам его ведь предаю; ведь предаю, не так ли? Не так ли?</span>
+<span class="p"><span class=fi></span>&mdash; Но как же, однако, я могу угадать, если вы не решаетесь высказаться?</span>
+<span class="p"><span class=fi></span>&mdash; То-то вот и есть, вы всегда подкосите вот этою вашею логикой, черт... ну, черт... эта &laquo;светлая личность&raquo;, этот &laquo;студент&raquo; &mdash; это Шатов... вот вам и всё!</span>
+<span class="p"><span class=fi></span>&mdash; Шатов? То есть как это Шатов?</span>
+<span class="p"><span class=fi></span>&mdash; Шатов, это &laquo;студент&raquo;, вот про которого здесь упоминается. Он здесь живет; бывший крепостной человек, ну, вот пощечину дал.</span>
+<span class="p"><span class=fi></span>&mdash; Знаю, знаю! &mdash; прищурился Лембке. &mdash; Но, позвольте, в чем же, собственно, он обвиняется и о чем вы-то, главнейше, ходатайствуете?</span>
+<span class="p"><span class=fi></span>&mdash; Да спасти же его прошу, понимаете! Ведь я его восемь лет тому еще знал, ведь я ему другом, может быть, был &mdash; выходил из себя Петр Степанович. &mdash; Ну, да я вам не обязан отчетами в прежней жизни, &mdash; махнул он рукой, &mdash; всё это ничтожно, всё это три с половиной человека, а с заграничными и десяти не наберется, а главное &mdash; я понадеялся на вашу гуманность, на ум. Вы поймете и сами покажете дело в настоящем виде, а не как бог знает что, как глупую мечту сумасбродного человека... от несчастий, заметьте, от долгих несчастий, а не как черт знает там какой небывалый государственный заговор!..</span>
+<span class="p"><span class=fi></span>Он почти задыхался.</span>
+<span class="p"><span class=fi></span>&mdash; Гм. Вижу, что он виновен в прокламациях с топором, &mdash; почти величаво заключил Лембке, &mdash; позвольте, однако же, если б один, то как мог он их разбросать и здесь, и в провинциях, и даже в X &mdash; ской губернии и... и, наконец, главнейшее, где взял?</span>
+<span class="p"><span class=fi></span>&mdash; Да говорю же вам, что их, очевидно, всего-на-всё пять человек, ну, десять, почему я знаю?</span>
+<span class="p"><span class=fi></span>&mdash; Вы не знаете?</span>
+<span class="p"><span class=fi></span>&mdash; Да почему мне знать, черт возьми?</span>
+<span class="p"><span class=fi></span>&mdash; Но вот знали же, однако, что Шатов один из сообщников?</span>
+<span class="p"><span class=fi></span>&mdash; Эх! &mdash; махнул рукой Петр Степанович, как бы отбиваясь от подавляющей прозорливости вопрошателя, &mdash; ну, слушайте, я вам всю правду скажу: о прокламациях ничего не знаю, то есть ровнешенько ничего, черт возьми, понимаете, что значит ничего?.. Ну, конечно, тот подпоручик, да еще кто-нибудь, да еще кто-нибудь здесь... ну и, может, Шатов, ну и еще кто-нибудь, ну вот и все, дрянь и мизер... но я за Шатова пришел просить, его спасти надо, потому что это стихотворение &mdash; его, его собственное сочинение и за границей через него отпечатано; вот что я знаю наверно, а о прокламациях ровно ничего не знаю.</span>
+<span class="p"><span class=fi></span>&mdash; Если стихи &mdash; его, то, наверно, и прокламации. Какие же, однако, данные заставляют вас подозревать господина Шатова?</span>
+<span class="p"><span class=fi></span>Петр Степанович, с видом окончательно выведенного из терпения человека, выхватил из кармана бумажник, а из него записку.</span>
+<span class="p"><span class=fi></span>&mdash; Вот данные! &mdash; крикнул он, бросив ее на стол. Лембке развернул; оказалось, что записка писана, с полгода назад, отсюда куда-то за границу, коротенькая, в двух словах:</span>
+<div class="letter">
+<span class="p"><span class=fi></span>&laquo;&bdquo;Светлую личность&ldquo; отпечатать здесь не могу, да и ничего не могу; печатайте за границей.</span>
+<div class="letter_signature">Ив. Шатов&raquo;.</div>
+</div>
+<span class="p"><span class=fi></span>Лембке пристально уставился на Петра Степановича. Варвара Петровна правду отнеслась, что у него был несколько бараний взгляд, иногда особенно.</span>
+<span class="p"><span class=fi></span>&mdash; То есть это вот что, &mdash; рванулся Петр Степанович, &mdash; значит, что он написал здесь, полгода назад, эти стихи, но здесь не мог отпечатать, ну, в тайной типографии какой-нибудь &mdash; и потому просит напечатать за границей... Кажется, ясно?</span>
+<span class="p"><span class=fi></span>&mdash; Да-с, ясно, но кого же он просит? &mdash; вот это еще не ясно, &mdash; с хитрейшею иронией заметил Лембке.</span>
+<span class="p"><span class=fi></span>&mdash; Да Кириллова же, наконец; записка писана к Кириллову за границу... Не знали, что ли? Ведь что досадно, что вы, может быть, предо мною только прикидываетесь, а давным-давно уже сами знаете про эти стихи, и всё! Как же очутились они у вас на столе? Сумели очутиться! За что же вы меня истязуете, если так?</span>
+<span class="p"><span class=fi></span>Он судорожно утер платком пот со лба.</span>
+<span class="p"><span class=fi></span>&mdash; Мне, может, и известно нечто... &mdash; ловко уклонился Лембке, &mdash; но кто же этот Кириллов?</span>
+<span class="p"><span class=fi></span>&mdash; Ну да вот инженер приезжий, был секундантом у Ставрогина, маньяк, сумасшедший; подпоручик ваш действительно только, может, в белой горячке, ну, а этот уж совсем сумасшедший, &mdash; совсем, в этом гарантирую. Эх, Андрей Антонович, если бы знало правительство, какие это сплошь люди, так на них бы рука не поднялась. Всех как есть целиком на седьмую версту; я еще в Швейцарии да на конгрессах нагляделся.</span>
+<span class="p"><span class=fi></span>&mdash; Там, откуда управляют здешним движением?</span>
+<span class="p"><span class=fi></span>&mdash; Да кто управляет-то? три человека с полчеловеком. Ведь, на них глядя, только скука возьмет. И каким это здешним движением? Прокламациями, что ли? Да и кто навербован-то, подпоручики в белой горячке да два-три студента! Вы умный человек, вот вам вопрос: отчего не вербуются к ним люди значительнее, отчего всё студенты да недоросли двадцати двух лет? Да и много ли? Небось миллион собак ищет, а много ль всего отыскали? Семь человек. Говорю вам, скука возьмет.</span>
+<span class="p"><span class=fi></span>Лембке выслушал со вниманием, но с выражением, говорившим: &laquo;Соловья баснями не накормишь&raquo;.</span>
+<span class="p"><span class=fi></span>&mdash; Позвольте, однако же, вот вы изволите утверждать, что записка адресована была за границу; но здесь адреса нет; почему же вам стало известно, что записка адресована к господину Кириллову и, наконец, за границу и... и... что писана она действительно господином Шатовым?</span>
+<span class="p"><span class=fi></span>&mdash; Так достаньте сейчас руку Шатова да и сверьте. У вас в канцелярии непременно должна отыскаться какая-нибудь его подпись. А что к Кириллову, так мне сам Кириллов тогда же и показал.</span>
+<span class="p"><span class=fi></span>&mdash; Вы, стало быть, сами...</span>
+<span class="p"><span class=fi></span>&mdash; Ну да, конечно, стало быть, сам. Мало ли что мне там показывали. А что эти вот стихи, так это будто покойный Герцен написал их Шатову, когда еще тот за границей скитался, будто бы на память встречи, в похвалу, в рекомендацию, ну, черт... а Шатов и распространяет в молодежи. Самого, дескать, Герцена обо мне мнение.</span>
+<span class="p"><span class=fi></span>&mdash; Те-те-те, &mdash; догадался наконец совсем Лембке, &mdash; то-то я думаю: прокламация &mdash; это понятно, а стихи зачем?</span>
+<span class="p"><span class=fi></span>&mdash; Да как уж вам не понять. И черт знает для чего я вам разболтал! Слушайте, мне Шатова отдайте, а там черт дери их всех остальных, даже с Кирилловым, который заперся теперь в доме Филиппова, где и Шатов, и таится. Они меня не любят, потому что я воротился... но обещайте мне Шатова, и я вам их всех на одной тарелке подам. Пригожусь, Андрей Антонович! Я эту всю жалкую кучку полагаю человек в девять &mdash; в десять. Я сам за ними слежу, от себя-с. Нам уж трое известны: Шатов, Кириллов и тот подпоручик. Остальных я еще только <i>разглядываю...</i> впрочем, не совсем близорук. Это как в Х&mdash;ской губернии; там схвачено с прокламациями два студента, один гимназист, два двадцатилетних дворянина, один учитель и один отставной майор, лет шестидесяти, одуревший от пьянства, вот и всё, и уж поверьте, что всё; даже удивились, что тут и всё. Но надо шесть дней. Я уже смекнул на счетах; шесть дней, и не раньше. Если хотите какого-нибудь результата &mdash; не шевелите их еще шесть дней, и я вам их в один узел свяжу; а пошевелите раньше &mdash; гнездо разлетится. Но дайте Шатова. Я за Шатова... А всего бы лучше призвать его секретно и дружески, хоть сюда в кабинет, и проэкзаменовать, поднявши пред ним завесу... Да он, наверно, сам вам в ноги бросится и заплачет! Это человек нервный, несчастный; у него жена гуляет со Ставрогиным. Приголубьте его, и он всё сам откроет, но надо шесть дней... А главное, главное &mdash; ни полсловечка Юлии Михайловне. Секрет. Можете секрет?</span>
+<span class="p"><span class=fi></span>&mdash; Как? &mdash; вытаращил глаза Лембке, &mdash; да разве вы Юлии Михайловне ничего не... открывали?</span>
+<span class="p"><span class=fi></span>&mdash; Ей? Да сохрани меня и помилуй! Э-эх, Андрей Антонович! Видите-с: я слишком ценю ее дружбу и высоко уважаю... ну и там всё это... но я не промахнусь. Я ей не противоречу, потому что ей противоречить, сами знаете, опасно. Я ей, может, и закинул словечко, потому что она это любит, но чтоб я выдал ей, как вам теперь, имена или там что-нибудь, э-эх, батюшка! Ведь я почему обращаюсь теперь к вам? Потому что вы все-таки мужчина, человек серьезный, с старинною твердою служебною опытностью. Вы видали виды. Вам каждый шаг в таких делах, я думаю, наизусть известен еще с петербургских примеров. А скажи я ей эти два имени, например, и она бы так забарабанила... Ведь она отсюда хочет Петербург удивить. Нет-с, горяча слишком, вот что-с.</span>
+<span class="p"><span class=fi></span>&mdash; Да, в ней есть несколько этой фуги, &mdash; не без удовольствия пробормотал Андрей Антонович, в то же время ужасно жалея, что этот неуч осмеливается, кажется, выражаться об Юлии Михайловне немного уж вольно. Петру же Степановичу, вероятно, казалось, что этого еще мало и что надо еще поддать пару, чтобы польстить и совсем уж покорить &laquo;Лембку&raquo;.</span>
+<span class="p"><span class=fi></span>&mdash; Именно фуги, &mdash; поддакнул он, &mdash; пусть она женщина, может быть, гениальная, литературная, но &mdash; воробьев она распугает. Шести часов не выдержит, не то что шести дней. Э-эх, Андрей Антонович, не налагайте на женщину срока в шесть дней! Ведь признаете же вы за мною некоторую опытность, то есть в этих делах; ведь знаю же я кое-что, и вы сами знаете, что я могу знать кое-что. Я у вас не для баловства шести дней прошу, а для дела.</span>
+<span class="p"><span class=fi></span>&mdash; Я слышал... &mdash; не решался высказать мысль свою Лембке, &mdash; я слышал, что вы, возвратясь из-за границы, где следует изъявили... вроде раскаяния?</span>
+<span class="p"><span class=fi></span>&mdash; Ну, там что бы ни было.</span>
+<span class="p"><span class=fi></span>&mdash; Да и я, разумеется, не желаю входить... но мне всё казалось, вы здесь до сих пор говорили совсем в ином стиле, о христианской вере, например, об общественных установлениях и, наконец, о правительстве...</span>
+<span class="p"><span class=fi></span>&mdash; Мало ли что я говорил. Я и теперь то же говорю, только не так эти мысли следует проводить, как те дураки, вот в чем дело. А то что в том, что укусил в плечо? Сами же вы соглашались со мной, только говорили, что рано.</span>
+<span class="p"><span class=fi></span>&mdash; Я не про то, собственно, соглашался и говорил, что рано.</span>
+<span class="p"><span class=fi></span>&mdash; Однако же у вас каждое слово на крюк привешено, хе-хе! осторожный человек! &mdash; весело заметил вдруг Петр Степанович. &mdash; Слушайте, отец родной, надо же было с вами познакомиться, ну вот потому я в моем стиле и говорил. Я не с одним с вами, а со многими так знакомлюсь. Мне, может, ваш характер надо было распознать.</span>
+<span class="p"><span class=fi></span>&mdash; Для чего бы вам мой характер?</span>
+<span class="p"><span class=fi></span>&mdash; Ну почем я знаю, для чего (он опять рассмеялся). Видите ли, дорогой и многоуважаемый Андрей Антонович, вы хитры, но до <i>этого</i> еще не дошло и, наверно, не дойдет, понимаете? Может быть, и понимаете? Я хоть и дал, где следует, объяснения, возвратясь из-за границы, и, право, не знаю, почему бы человек известных убеждений не мог действовать в пользу искренних своих убеждений... но мне никто еще <i>там</i> не заказывал вашего характера, и никаких подобных заказов <i>оттуда я</i> еще не брал на себя. Вникните сами: ведь мог бы я не вам открыть первому два-то имени, а прямо <i>туда</i> махнуть, то есть туда, где первоначальные объяснения давал; и уж если б я старался из-за финансов али там из-за выгоды, то, уж конечно, вышел бы с моей стороны нерасчет, потому что благодарны-то будут теперь вам, а не мне. Я единственно за Шатова, &mdash; с благородством прибавил Петр Степанович, &mdash; за одного Шатова, по прежней дружбе... Ну, а там, пожалуй, когда возьмете перо, чтобы <i>туда</i> отписать, ну похвалите меня, если хотите... противоречить не стану, хе-хе! Adieu, однако же, засиделся, и не надо бы столько болтать! &mdash; прибавил он не без приятности и встал с дивана.</span>
+<span class="p"><span class=fi></span>&mdash; Напротив, я очень рад, что дело, так сказать, определяется, &mdash; встал и фон Лембке, тоже с любезным видом, видимо под влиянием последних слов. &mdash; Я с признательностию принимаю ваши услуги и, будьте уверены, всё, что можно с моей стороны насчет отзыва о вашем усердии...</span>
+<span class="p"><span class=fi></span>&mdash; Шесть дней, главное, шесть дней сроку, и чтобы в эти дни вы не шевелились, вот что мне надо!</span>
+<span class="p"><span class=fi></span>&mdash; Пусть.</span>
+<span class="p"><span class=fi></span>&mdash; Разумеется, я вам рук не связываю, да и не смею. Не можете же вы не следить; только не пугайте гнезда раньше времени, вот в чем я надеюсь на ваш ум и на опытность. А довольно у вас, должно быть, своих-то гончих припасено и всяких там ищеек, хе-хе! &mdash; весело и легкомысленно (как молодой человек) брякнул Петр Степанович.</span>
+<span class="p"><span class=fi></span>&mdash; Не совсем это так, &mdash; приятно уклонился Лембке. &mdash; Это &mdash; предрассудок молодости, что слишком много припасено... Но кстати, позвольте одно словцо: ведь если этот Кириллов был секундантом у Ставрогина, то и господин Ставрогин в таком случае...</span>
+<span class="p"><span class=fi></span>&mdash; Что Ставрогин?</span>
+<span class="p"><span class=fi></span>&mdash; То есть если они такие друзья?</span>
+<span class="p"><span class=fi></span>&mdash; Э, нет, нет, нет! Вот тут маху дали, хоть вы и хитры. И даже меня удивляете. Я ведь думал, что вы насчет этого не без сведений... Гм, Ставрогин &mdash; это совершенно противоположное, то есть совершенно... Avis au lecteur.<span class=fnref><sup>&nbsp;<a class=fnref href="#fn1" name="fns1">1</a></sup></span></span>
+<span class="p"><span class=fi></span>&mdash; Неужели! и может ли быть? &mdash; с недоверчивостию произнес Лембке. &mdash; Мне Юлия Михайловна сообщила, что, по ее сведениям из Петербурга, он человек с некоторыми, так сказать, наставлениями...</span>
+<span class="p"><span class=fi></span>&mdash; Я ничего не знаю, ничего не знаю, совсем ничего. Adieu. Avis au lecteur! &mdash; вдруг и явно уклонился Петр Степанович.</span>
+<span class="p"><span class=fi></span>Он полетел к дверям.</span>
+<span class="p"><span class=fi></span>&mdash; Позвольте, Петр Степанович, позвольте, &mdash; крикнул Лембке, &mdash; еще одно крошечное дельце, и я вас не задержу.</span>
+<span class="p"><span class=fi></span>Он вынул из столового ящика конверт.</span>
+<span class="p"><span class=fi></span>&mdash; Вот-с один экземплярчик, по той же категории, и я вам тем самым доказываю, что вам в высшей степени доверяю. Вот-с, и каково ваше мнение?</span>
+<span class="p"><span class=fi></span>В конверте лежало письмо, &mdash; письмо странное, анонимное, адресованное к Лембке и вчера только им полученное. Петр Степанович, к крайней досаде своей, прочел следующее:</span>
+<div class="letter">
+<div class="letter_formaddress"><span class="p"><span class=fi></span>&laquo;Ваше превосходительство!</span></div>
+<span class="p"><span class=fi></span>Ибо по чину вы так. Сим объявляю в покушении на жизнь генеральских особ и отечества; ибо прямо ведет к тому. Сам разбрасывал непрерывно множество лет. Тоже и безбожие. Приготовляется бунт, а прокламаций несколько тысяч, и за каждой побежит сто человек, высуня язык, если заранее не отобрать начальством, ибо множество обещано в награду, а простой народ глуп, да и водка. Народ, почитая виновника, разоряет того и другого, и, боясь обеих сторон, раскаялся, в чем не участвовал, ибо обстоятельства мои таковы. Если хотите, чтобы донос для спасения отечества, а также церквей и икон, то я один только могу. Но с тем, чтобы мне прощение из Третьего отделения по телеграфу немедленно одному из всех, а другие пусть отвечают. На окошке у швейцара для сигнала в семь часов ставьте каждый вечер свечу. Увидав, поверю и приду облобызать милосердную длань из столицы, но с тем, чтобы пенсион, ибо чем же я буду жить? Вы же не раскаетесь, потому что вам выйдет звезда. Надо потихоньку, а не то свернут голову.</span>
+<span class="p"><span class=fi></span>Вашего превосходительства отчаянный человек.</span>
+<div class="letter_presignature">Припадает к стопам</div>
+<div class="letter_signature"><span style="font-style: normal">раскаявшийся вольнодумец Incognito&raquo;.</span></div>
+</div>
+<span class="p"><span class=fi></span>Фон Лембке объяснил, что письмо очутилось вчера в швейцарской, когда там никого не было.</span>
+<span class="p"><span class=fi></span>&mdash; Так вы как же думаете? &mdash; спросил чуть не грубо Петр Степанович.</span>
+<span class="p"><span class=fi></span>&mdash; Я бы предположил, что это анонимный пашквиль, в насмешку.</span>
+<span class="p"><span class=fi></span>&mdash; Вероятнее всего, что так и есть. Вас не надуешь.</span>
+<span class="p"><span class=fi></span>&mdash; Я главное потому, что так глупо.</span>
+<span class="p"><span class=fi></span>&mdash; А вы получали здесь еще какие-нибудь пашквили?</span>
+<span class="p"><span class=fi></span>&mdash; Получал раза два, анонимные.</span>
+<span class="p"><span class=fi></span>&mdash; Ну, уж разумеется, не подпишут. Разным слогом? Разных рук?</span>
+<span class="p"><span class=fi></span>&mdash; Разным слогом и разных рук.</span>
+<span class="p"><span class=fi></span>&mdash; И шутовские были, как это?</span>
+<span class="p"><span class=fi></span>&mdash; Да, шутовские, и знаете... очень гадкие.</span>
+<span class="p"><span class=fi></span>&mdash; Ну, коли уж были, так, наверно, и теперь то же самое.</span>
+<span class="p"><span class=fi></span>&mdash; А главное потому, что так глупо. Потому что те люди образованные и, наверно, так глупо не напишут.</span>
+<span class="p"><span class=fi></span>&mdash; Ну да, ну да.</span>
+<span class="p"><span class=fi></span>&mdash; А что, если это и в самом деле кто-нибудь хочет действительно донести?</span>
+<span class="p"><span class=fi></span>&mdash; Невероятно, &mdash; сухо отрезал Петр Степанович. &mdash; Что значит телеграмма из Третьего отделения и пенсион? пашквиль очевидный.</span>
+<span class="p"><span class=fi></span>&mdash; Да, да, &mdash; устыдился Лембке.</span>
+<span class="p"><span class=fi></span>&mdash; Знаете что, оставьте-ка это у меня. Я вам наверно разыщу. Раньше, чем тех, разыщу.</span>
+<span class="p"><span class=fi></span>&mdash; Возьмите, &mdash; согласился фон Лембке, с некоторым, впрочем, колебанием.</span>
+<span class="p"><span class=fi></span>&mdash; Вы кому-нибудь показывали?</span>
+<span class="p"><span class=fi></span>&mdash; Нет, как можно, никому.</span>
+<span class="p"><span class=fi></span>&mdash; То есть Юлии Михайловне?</span>
+<span class="p"><span class=fi></span>&mdash; Ах, боже сохрани, и ради бога не показывайте ей сами! &mdash; вскричал Лембке в испуге. &mdash; Она будет так потрясена... и рассердится на меня ужасно.</span>
+<span class="p"><span class=fi></span>&mdash; Да, вам же первому и достанется, скажет, что сами заслужили, коли вам так пишут. Знаем мы женскую логику. Ну, прощайте. Я вам, может, даже дня через три этого сочинителя представлю. Главное, уговор!</span>
+
+<div style="margin:0.5em 0em;background-color:#222;height:1px;width:25%"></div><div class="fns"><div style="text-indent: 0em; float: left; text-align: right; width: 0em;"><span style="width: 2.5em; position: absolute; z-index: 1;"><sup><a class=fnref href="#fns1" name="fn1">1</a></sup></span></div>
+<span class="p"><span class=fi></span>К сведению читателя <i>(франц.)</i> Здесь в смысле: вы предупреждены.<div style="font-size:0;"></div></span></div><div id="tbd"></div><div style="height:3em;margin:2em 0em;"><div id="bnbg" class="rbg" style="z-index:2;height:3em;bottom:0px"><div id="bnav" class="bnvin"><a title="Назад" href="/text/1544/p.65/index.html" class="navlink" style="justify-content:flex-start"><div class="ang0"><div class="ang la1"></div><div class="ang la2"></div><div class="ang la2" style="width: 1em"><div class="ha"></div></div></div><div class="navlnktxt">II</div></a><span style="display:block;text-indent:0em;padding:.6em;font-size:90%;white-space:nowrap">66/108</span><a title="Дальше" href="/text/1544/p.67/index.html" class="navlink" style="justify-content:flex-end"><div class="navlnktxt">IV</div><div class="ang0" style="width:1.2em"><div class="ang ra1"></div><div class="ang ra2"></div><div class="ang la2" style="border-right-color:transparent;width: 1em"><div  class="ha"></div></div></div></a></div></div></div><div style="height:2em;text-indent:0em;text-align:center"><a class="bttn" href="/text/1544/index.html">о тексте/оглавление</a></div></div><div id="s" style="height:0em"></div>
+<div style="margin:1em -6px;text-align:center">
+<div id="yar"></div>
+</div>
+
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div></div>
+
+<div id="f_r1" style="background-color:#e6e0d3;background-image:url(/i/dark_bg_oldpaper.gif);background-position-x:right;">
+<div style="display:flex;height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" style="display:flex;flex-direction:column;justify-content:space-between;align-items:center;width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div style="position:relative;text-align:center;">
+<div id="right-rectangle-stick-1" style="display:inline-block;max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+function gr(e){return e.getBoundingClientRect();}
+</script>
+<div id="gglad" style="display:inline-block;max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div style="text-align:center">
+	 <div id="right-rectangle-stick-2" style="display:inline-block;max-width:400px"></div>
+   <div id="btmad" style="display:inline-block;max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2023 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+
+function setAd(){
+t_e=ge("text");var ty_e=ge("tyad");
+if(ty_e){if (ow(t_e)>=600)ty_e.style.display="block";else ty_e.style.display="none";}
+}
+function setPoems(){
+t_e=ge("text");
+if(typeof t_e !== 'undefined'){
+var tw=ow(t_e);
+var ss='';
+if(tw>240)for(var i in poems){
+var vls=poems[i].getElementsByClassName("vl");
+var vlim=16;var rsq=0;var lsq=0;var vlmax=0;var invr=0;var invl=0;
+if(vls.length<vlim)vlim=vls.length;
+vlmax=ow(poems[i]);
+for(var j=0;j<vlim;j++){var vlw=ow(vls[j]);if(vlw>vlmax)vlmax=vlw;}
+for(var j=0;j<vlim;j++){var vlw=ow(vls[j]);if(vlw>vlmax/3)rsq+=ow(poems[i])-vlw;else invr++;pdl=getComputedStyle(vls[j]).paddingLeft;pdl=parseFloat(pdl.slice(0,-2));if(pdl<vlmax*.67)lsq+=pdl;else invl++;}
+var width1=rsq/(vlim-invr)/2-lsq/(vlim-invl)/2;
+if(width1+vlmax>tw)width1=tw-vlmax;
+var pmid='#'+poems[i].id;
+ss+=pmid+' div,'+pmid+' h1,'+pmid+' h2,'+pmid+' h3,'+pmid+' h4,'+pmid+' h5 {margin-left:-'+width1+'px;}'+pmid+' .pmm {padding-left:'+width1+'px;margin:0em}'+pmid+' .pm {padding-left:'+width1+'px}';
+}
+pss=document.createElement('style');
+pss.innerHTML=ss;
+document.querySelector('head').appendChild(pss);
+}
+}
+function cleanRules(){if(typeof t_e !=='undefined'){if(ow(ge("text"))>240)pss.parentNode.removeChild(pss);}}
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+function setArrows(){
+for(var i in lbs){yf=oh(lbcs[i])/oh(lbs[i])*1.2;xf=1+yf/5;lbs[i].style.transform='scale('+xf+','+yf+')';}
+for(var i in rbs){yf=oh(rbcs[i])/oh(rbs[i])*1.2;xf=1+yf/5;rbs[i].style.transform='scale('+xf+','+yf+')';}
+if(bnbg_e != null)if(gr(tbd_e).bottom<document.body.clientHeight-16.8*4)bnbg_e.className="bnv";else bnbg_e.className="rbg";
+}
+setArrows();setPoems();
+window.onscroll=function(){setArrows();}
+
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+
+</script>
+</div>
+</BODY>
+</HTML>

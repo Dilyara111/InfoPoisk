@@ -1,0 +1,260 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>Ф. М. Достоевский. Бесы</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст Федор Достоевский Бесы">
+<META NAME="Description" CONTENT='Федор Достоевский. Бесы. Текст произведения. Источник: Ф. М. Достоевский. Собрание сочинений в 15-ти томах. Том 7. Л.: Наука, 1990. Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;background-image:url(/i/dark_bg_oldpaper.gif);background-position-x:right;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.ang0 {position:relative;width:.6em;height:1.2em}
+.ang {position:absolute;border:.6em solid transparent;width:0px;height:0px}
+.la1 {border-right-color:#222;border-left-width:0px}
+.la2 {left:2px;border-right-color:#e3e0d7;border-left-width:0px}
+.ra1 {left:2px;border-left-color:#222;border-right-width:0em;margin-left:0.46em}
+.ra2 {border-left-color:#e3e0d7;border-right-width:0px;margin-left:0.46em}
+.ha {border-top: 2px solid black;margin-top:-1px}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link rel=stylesheet type="text/css" href="/etc/styles3.css" title="style">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<script>
+lgl=1;
+function ge(e){return document.getElementById(e);}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function showLogin(){var lf=ge("loginFrame");var cw=lf.contentWindow;if(cw.location.pathname!="/loginFrame.phtml"){cw.location.assign("/loginFrame.phtml");}lf.style.display="block";ge("shdw").style.display="block";cw.focus();}
+function Logout(){
+ var r=new XMLHttpRequest();
+ r.open('POST', '/userlogout.phtml', true);
+ r.send();
+ r.onreadystatechange=function() {
+  if (r.readyState === 4) {	
+   if (r.status >= 200 && r.status < 300)
+    document.location.reload(true);
+  }
+ }
+}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+function toggle_sf(){qs_e=ge('qs1');hdr_e=ge('hdr');qi_e=ge('qi1');if (qs_e.className=='qson') {qs_e.className = "qsoff";hdr_e.className="hdr2";qi1.focus()}else{qs_e.className = "qson";hdr_e.className="hdr";}}
+window.addEventListener("click",function(e){
+qs_e=ge('qs1');hdr_e=ge('hdr');qi_e=ge('qi1');thm_e=ge("thm");am1_e=ge("am1");sldr_e=ge("sldr1");
+eid=document.elementFromPoint(e.clientX, e.clientY).id;
+if(am1_e!==null)if(eid!=="am1"&&am1_e.className=="am1min"&&eid!="amm"&&eid!="mmm")am1_e.className="am1";
+if(thm_e!==null)if(eid!=="thm"&&thm_e.className=="thmmin")thm_e.className="thm";
+if(sldr_e!==null){
+	if(eid=="sldr1")showThemes();
+}
+if(eid=="lio"){var m=ge("lio");if(m.innerHTML=="Вход")showLogin();else Logout();}
+if(eid=="sb"||eid=="sb1"){document.forms.sf2.submit();}
+},true);
+</script>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1">
+   <a href="/">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div></form></div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0"><div style="display:flex;justify-content:space-between;flex-direction:column">
+<div id="ttop">
+<div id="lft">
+<div id="text" class="t">
+
+<div id="thdr" class="thdr"><a href="/author/dostoevski/index.html">Ф. М. Достоевский</a>. Бесы</div><div style="text-align: center; text-indent: 0em"><div class=author style="padding-bottom: 0;">Федор Достоевский</div><h1 style="padding-bottom: 0em;padding: 0em">Бесы</h1><div class=subtitle>Роман в трех частях</div><div style="text-align: center; text-indent: 0em; margin: 2em auto 0em;"><div style="padding: 0em; font-size: 85%; color:#666; display: inline-block;line-height: 2.8em"><a href="#toc" class="bttn" style="color:#557;background-color:#f3f0e7">Оглавление</a> <a href="/text/1544/p.1/index.html" class="bttn" style="color:#006">Читать онлайн  &rarr;</a></div></div></div></div><div id="s" style="height:0em"></div>
+<div style="margin:1em -6px;text-align:center">
+<div id="yar"></div>
+</div>
+
+
+
+<script type="text/javascript">
+ pagecontext="text0";
+</script>
+<div class="tabout"><i>Даты написания:</i> 1870&#151;1871&nbsp;гг.. <i>Источник:</i> Ф. М. Достоевский. Собрание сочинений в 15-ти томах. Том 7. Л.: Наука, 1990. <i>Добавлено в библиотеку:</i> 22.02.07.</div><div class="t"><a name="toc"></a><h4 style="border-bottom: 1px solid #7f7f96"><span style="background-color: #f3f0e7; position: relative; top: 0.6em; padding: 0em 1.2em">Оглавление</span></h4><div class="toc" style="width: 100%"><table class="tc" border=0 cellpadding=0 cellspacing=0 width=100% style="font-size:inherit"><tr onclick="top.location.href='/text/1544/p.1/index.html'"><td style="padding-top: 0.5em"><div class=l0><div class=d2><p><a href="/text/1544/p.1/index.html">Часть первая</a></p></div></div></td><td width=5% class=go style="padding-top: 0.5em;"><a href="/text/1544/p.1/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.1/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.1/index.html">Глава первая. Вместо введения: несколько подробностей из биографии многочтимого Степана Трофимовича Верховенского</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.1/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.1/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.1/index.html">I</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.1/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.2/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.2/index.html">II</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.2/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.3/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.3/index.html">III</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.3/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.4/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.4/index.html">IV</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.4/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.5/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.5/index.html">V</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.5/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.6/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.6/index.html">VI</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.6/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.7/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.7/index.html">VII</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.7/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.8/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.8/index.html">VIII</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.8/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.9/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.9/index.html">IX</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.9/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.10/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.10/index.html">Глава вторая. Принц Гарри. Сватовство</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.10/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.10/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.10/index.html">I</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.10/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.11/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.11/index.html">II</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.11/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.12/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.12/index.html">III</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.12/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.13/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.13/index.html">IV</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.13/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.14/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.14/index.html">V</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.14/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.15/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.15/index.html">VI</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.15/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.16/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.16/index.html">VII</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.16/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.17/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.17/index.html">VIII</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.17/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.18/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.18/index.html">Глава третья. Чужие грехи</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.18/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.18/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.18/index.html">I</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.18/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.19/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.19/index.html">II</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.19/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.20/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.20/index.html">III</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.20/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.21/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.21/index.html">IV</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.21/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.22/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.22/index.html">V</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.22/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.23/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.23/index.html">VI</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.23/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.24/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.24/index.html">VII</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.24/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.25/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.25/index.html">VIII</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.25/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.26/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.26/index.html">IX</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.26/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.27/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.27/index.html">X</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.27/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.28/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.28/index.html">Глава четвертая. Хромоножка</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.28/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.28/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.28/index.html">I</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.28/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.29/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.29/index.html">II</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.29/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.30/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.30/index.html">III</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.30/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.31/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.31/index.html">IV</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.31/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.32/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.32/index.html">V</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.32/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.33/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.33/index.html">VI</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.33/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.34/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.34/index.html">VII</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.34/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.35/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.35/index.html">Глава пятая. Премудрый змий</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.35/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.35/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.35/index.html">I</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.35/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.36/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.36/index.html">II</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.36/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.37/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.37/index.html">III</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.37/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.38/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.38/index.html">IV</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.38/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.39/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.39/index.html">V</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.39/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.40/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.40/index.html">VI</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.40/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.41/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.41/index.html">VII</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.41/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.42/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.42/index.html">VIII</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.42/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.43/index.html'"><td style="padding-top: 0.5em"><div class=l0><div class=d2><p><a href="/text/1544/p.43/index.html">Часть вторая</a></p></div></div></td><td width=5% class=go style="padding-top: 0.5em;"><a href="/text/1544/p.43/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.43/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.43/index.html">Глава первая. Ночь</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.43/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.43/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.43/index.html">I</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.43/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.44/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.44/index.html">II</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.44/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.45/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.45/index.html">III</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.45/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.46/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.46/index.html">IV</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.46/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.47/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.47/index.html">V</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.47/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.48/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.48/index.html">VI</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.48/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.49/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.49/index.html">VII</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.49/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.50/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.50/index.html">Глава вторая. Ночь (продолжение)</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.50/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.50/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.50/index.html">I</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.50/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.51/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.51/index.html">II</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.51/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.52/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.52/index.html">III</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.52/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.53/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.53/index.html">IV</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.53/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.54/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.54/index.html">Глава третья. Поединок</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.54/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.54/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.54/index.html">I</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.54/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.55/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.55/index.html">II</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.55/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.56/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.56/index.html">III</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.56/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.57/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.57/index.html">IV</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.57/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.58/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.58/index.html">Глава четвертая. Все в ожидании</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.58/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.58/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.58/index.html">I</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.58/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.59/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.59/index.html">II</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.59/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.60/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.60/index.html">III</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.60/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.61/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.61/index.html">Глава пятая. Пред праздником</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.61/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.61/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.61/index.html">I</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.61/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.62/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.62/index.html">II</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.62/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.63/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.63/index.html">III</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.63/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.64/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.64/index.html">Глава шестая. Петр Степанович в хлопотах</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.64/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.64/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.64/index.html">I</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.64/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.65/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.65/index.html">II</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.65/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.66/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.66/index.html">III</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.66/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.67/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.67/index.html">IV</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.67/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.68/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.68/index.html">V</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.68/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.69/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.69/index.html">VI</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.69/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.70/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.70/index.html">VII</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.70/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.71/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.71/index.html">Глава седьмая. У наших</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.71/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.71/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.71/index.html">I</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.71/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.72/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.72/index.html">II</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.72/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.73/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.73/index.html">Глава восьмая. Иван-Царевич</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.73/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.74/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.74/index.html">Глава девятая. Степана Трофимовича описали</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.74/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.75/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.75/index.html">Глава десятая. Флибустьеры. Роковое утро</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.75/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.75/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.75/index.html">I</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.75/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.76/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.76/index.html">II</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.76/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.77/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.77/index.html">III</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.77/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.78/index.html'"><td style="padding-top: 0.5em"><div class=l0><div class=d2><p><a href="/text/1544/p.78/index.html">Часть третья</a></p></div></div></td><td width=5% class=go style="padding-top: 0.5em;"><a href="/text/1544/p.78/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.78/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.78/index.html">Глава первая. Праздник. Отдел первый</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.78/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.78/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.78/index.html">I</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.78/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.79/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.79/index.html">II</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.79/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.80/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.80/index.html">III</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.80/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.81/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.81/index.html">IV</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.81/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.82/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.82/index.html">Глава вторая. Окончание праздника</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.82/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.82/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.82/index.html">I</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.82/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.83/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.83/index.html">II</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.83/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.84/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.84/index.html">III</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.84/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.85/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.85/index.html">IV</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.85/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.86/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.86/index.html">Глава третья. Законченный роман</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.86/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.86/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.86/index.html">I</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.86/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.87/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.87/index.html">II</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.87/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.88/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.88/index.html">III</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.88/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.89/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.89/index.html">Глава четвертая. Последнее решение</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.89/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.89/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.89/index.html">I</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.89/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.90/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.90/index.html">II</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.90/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.91/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.91/index.html">III</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.91/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.92/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.92/index.html">IV</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.92/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.93/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.93/index.html">Глава пятая. Путешественница</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.93/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.93/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.93/index.html">I</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.93/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.94/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.94/index.html">II</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.94/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.95/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.95/index.html">III</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.95/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.96/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.96/index.html">IV</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.96/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.97/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.97/index.html">V</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.97/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.98/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.98/index.html">VI</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.98/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.99/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.99/index.html">Глава шестая. Многотрудная ночь</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.99/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.99/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.99/index.html">I</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.99/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.100/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.100/index.html">II</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.100/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.101/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.101/index.html">III</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.101/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.102/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.102/index.html">Глава седьмая. Последнее странстование Степана Трофимовича</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.102/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.102/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.102/index.html">I</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.102/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.103/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.103/index.html">II</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.103/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.104/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.104/index.html">III</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.104/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.105/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.105/index.html">Глава восьмая. Заключение</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.105/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.106/index.html'"><td style="padding-top: 0.5em"><div class=l0><div class=d2><p><a href="/text/1544/p.106/index.html">Приложение</a></p></div></div></td><td width=5% class=go style="padding-top: 0.5em;"><a href="/text/1544/p.106/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.106/index.html'"><td><div class=l1><div class=d2><p><a href="/text/1544/p.106/index.html">Глава девятая. У Тихона</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.106/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.106/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.106/index.html">I</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.106/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.107/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.107/index.html">II</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.107/index.html">&raquo;</a></td></tr><tr onclick="top.location.href='/text/1544/p.108/index.html'"><td><div class=l2><div class=d2><p><a href="/text/1544/p.108/index.html">&lt;III&gt;</a></p></div></div></td><td width=5% class=go><a href="/text/1544/p.108/index.html">&raquo;</a></td></tr></table></div></div><div id="ad_t01" style="margin:1em auto">
+<div id="aftercontents_ad"></div>
+</div>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div></div>
+
+<div id="f_r1" style="background-color:#e6e0d3;background-image:url(/i/dark_bg_oldpaper.gif);background-position-x:right;">
+<div style="display:flex;height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" style="display:flex;flex-direction:column;justify-content:space-between;align-items:center;width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div style="position:relative;text-align:center;">
+<div id="right-rectangle-stick-1" style="display:inline-block;max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+function gr(e){return e.getBoundingClientRect();}
+</script>
+<div id="gglad" style="display:inline-block;max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div style="text-align:center">
+	 <div id="right-rectangle-stick-2" style="display:inline-block;max-width:400px"></div>
+   <div id="btmad" style="display:inline-block;max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2023 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+
+function setAd(){
+t_e=ge("text");var ty_e=ge("tyad");
+if(ty_e){if (ow(t_e)>=600)ty_e.style.display="block";else ty_e.style.display="none";}
+}
+function setPoems(){
+t_e=ge("text");
+if(typeof t_e !== 'undefined'){
+var tw=ow(t_e);
+var ss='';
+if(tw>240)for(var i in poems){
+var vls=poems[i].getElementsByClassName("vl");
+var vlim=16;var rsq=0;var lsq=0;var vlmax=0;var invr=0;var invl=0;
+if(vls.length<vlim)vlim=vls.length;
+vlmax=ow(poems[i]);
+for(var j=0;j<vlim;j++){var vlw=ow(vls[j]);if(vlw>vlmax)vlmax=vlw;}
+for(var j=0;j<vlim;j++){var vlw=ow(vls[j]);if(vlw>vlmax/3)rsq+=ow(poems[i])-vlw;else invr++;pdl=getComputedStyle(vls[j]).paddingLeft;pdl=parseFloat(pdl.slice(0,-2));if(pdl<vlmax*.67)lsq+=pdl;else invl++;}
+var width1=rsq/(vlim-invr)/2-lsq/(vlim-invl)/2;
+if(width1+vlmax>tw)width1=tw-vlmax;
+var pmid='#'+poems[i].id;
+ss+=pmid+' div,'+pmid+' h1,'+pmid+' h2,'+pmid+' h3,'+pmid+' h4,'+pmid+' h5 {margin-left:-'+width1+'px;}'+pmid+' .pmm {padding-left:'+width1+'px;margin:0em}'+pmid+' .pm {padding-left:'+width1+'px}';
+}
+pss=document.createElement('style');
+pss.innerHTML=ss;
+document.querySelector('head').appendChild(pss);
+}
+}
+function cleanRules(){if(typeof t_e !=='undefined'){if(ow(ge("text"))>240)pss.parentNode.removeChild(pss);}}
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+function setArrows(){
+for(var i in lbs){yf=oh(lbcs[i])/oh(lbs[i])*1.2;xf=1+yf/5;lbs[i].style.transform='scale('+xf+','+yf+')';}
+for(var i in rbs){yf=oh(rbcs[i])/oh(rbs[i])*1.2;xf=1+yf/5;rbs[i].style.transform='scale('+xf+','+yf+')';}
+if(bnbg_e != null)if(gr(tbd_e).bottom<document.body.clientHeight-16.8*4)bnbg_e.className="bnv";else bnbg_e.className="rbg";
+}
+setArrows();setPoems();
+window.onscroll=function(){setArrows();}
+
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+
+</script>
+</div>
+</BODY>
+</HTML>

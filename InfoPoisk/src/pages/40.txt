@@ -1,0 +1,307 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML lang="ru">
+
+<HEAD>
+<TITLE>Ф. М. Достоевский. Бесы. Текст произведения. Часть первая. Глава третья. III</TITLE>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<META NAME="Keywords" CONTENT="русская классическая литература интернет-библиотека Алексея Комарова текст читать Федор Достоевский Бесы">
+<META NAME="Description" CONTENT='Федор Достоевский. Бесы. Текст произведения. Источник: Ф. М. Достоевский. Собрание сочинений в 15-ти томах. Том 7. Л.: Наука, 1990. Интернет-библиотека Алексея Комарова'>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<style>
+.hdr {border-bottom:2px solid #7f7f96;background-color:#e6e0d3;background-image:url(/i/dark_bg_oldpaper.gif);background-position-x:right;text-align:right;height:3.6em;position:relative;display:flex;justify-content:flex-end;align-items:flex-end}
+.qson {white-space:nowrap;margin:0em;padding:0.1em 0em;font-size:100%}
+#lmini {display:none;width:4.9em;height:2.5em;position:absolute}
+#lmaxi {width:12em;height:3.6em;position:absolute}
+#lmidi {width:12em;height:3.6em;position:absolute}
+#smg {display:inline-block;width:1em;height:1.2em;vertical-align:middle;margin-bottom:0em}
+.ma {padding:0.5em 1em;border:1px solid #7f7f96;display:inline-block;height:1.2em;border-bottom:0px}
+.l {margin:0em;top:0;left:0;padding:0em;position:relative;width:100%;display:flex;align-items:stretch}
+#lft {padding:1em 2em;}
+.ang0 {position:relative;width:.6em;height:1.2em}
+.ang {position:absolute;border:.6em solid transparent;width:0px;height:0px}
+.la1 {border-right-color:#222;border-left-width:0px}
+.la2 {left:2px;border-right-color:#e3e0d7;border-left-width:0px}
+.ra1 {left:2px;border-left-color:#222;border-right-width:0em;margin-left:0.46em}
+.ra2 {border-left-color:#e3e0d7;border-right-width:0px;margin-left:0.46em}
+.ha {border-top: 2px solid black;margin-top:-1px}
+.me {text-decoration:underline;color:#006}
+.me:hover {cursor:pointer}
+.sb {background-color:#d6d0c3;display:flex;align-items:center;padding:0em 1em;border:1px solid #7f7f96;border-left:0px}
+.sb:hover {cursor:pointer}
+</style>
+<link rel=stylesheet type="text/css" href="/etc/styles3.css" title="style">
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+<script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+<script>
+    function renderAdFoxAd(adFoxConfig, adUnit) {
+        window.Ya.adfoxCode.hbCallbacks.push(function () {
+            window.Ya.headerBidding.pushAdUnits([adUnit]);
+            window.yaContextCb.push(function () {
+                window.Ya.adfoxCode.create(adFoxConfig);
+            });
+        });
+    }
+
+    function destroyAdFoxAd(adBlockId) {
+        window.yaContextCb.push(() => {
+            Ya.adfoxCode.destroy(adBlockId);
+        });
+    }
+
+    function buildAdBlock(containerDivId, adBlockId) {
+        let container = document.getElementById(containerDivId);
+
+        let adBlock = document.createElement('div');
+        adBlock.setAttribute('id', adBlockId);
+
+        return container.insertAdjacentElement('afterbegin', adBlock);
+    }
+</script>
+
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=8c86a31e-948e-4d37-9b5a-304d2fbc4c0c"></script>
+
+<script src="/js/adplacements3.js"></script>
+</HEAD>
+
+<BODY>
+<div id="shdw" style="z-index:500;width:100vw;height:100vh;position:fixed;top:0px;left:0px;background-color:#000;opacity:.2;display:none"></div>
+<iframe id="loginFrame" name="loginFrame" style="border:0px;z-index:2000;width:100vw;height:100vh;position:fixed;top:0px;left:0px;display:none;"></iframe>
+<div>
+<script>
+lgl=1;
+function ge(e){return document.getElementById(e);}
+function ow(e){return e.offsetWidth}
+function oh(e){return e.offsetHeight}
+function showLogin(){var lf=ge("loginFrame");var cw=lf.contentWindow;if(cw.location.pathname!="/loginFrame.phtml"){cw.location.assign("/loginFrame.phtml");}lf.style.display="block";ge("shdw").style.display="block";cw.focus();}
+function Logout(){
+ var r=new XMLHttpRequest();
+ r.open('POST', '/userlogout.phtml', true);
+ r.send();
+ r.onreadystatechange=function() {
+  if (r.readyState === 4) {	
+   if (r.status >= 200 && r.status < 300)
+    document.location.reload(true);
+  }
+ }
+}
+poems=[];lbs=[];lbcs=[];rbs=[];rbcs=[];
+function toggle_sf(){qs_e=ge('qs1');hdr_e=ge('hdr');qi_e=ge('qi1');if (qs_e.className=='qson') {qs_e.className = "qsoff";hdr_e.className="hdr2";qi1.focus()}else{qs_e.className = "qson";hdr_e.className="hdr";}}
+window.addEventListener("click",function(e){
+qs_e=ge('qs1');hdr_e=ge('hdr');qi_e=ge('qi1');thm_e=ge("thm");am1_e=ge("am1");sldr_e=ge("sldr1");
+eid=document.elementFromPoint(e.clientX, e.clientY).id;
+if(am1_e!==null)if(eid!=="am1"&&am1_e.className=="am1min"&&eid!="amm"&&eid!="mmm")am1_e.className="am1";
+if(thm_e!==null)if(eid!=="thm"&&thm_e.className=="thmmin")thm_e.className="thm";
+if(sldr_e!==null){
+	if(eid=="sldr1")showThemes();
+}
+if(eid=="lio"){var m=ge("lio");if(m.innerHTML=="Вход")showLogin();else Logout();}
+if(eid=="sb"||eid=="sb1"){document.forms.sf2.submit();}
+},true);
+</script>
+<span id="svg"></span>
+<div id="hdr" class="hdr">
+ <div class="logo">
+  <div class="logo1">
+   <a href="/">
+    <div id="lmini"><svg style="width:4.9em;height:2.5em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="800 15 1500 1600"><use xlink:href="#logoMini" /></svg></div>
+    <div id="lmaxi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoBg" /><use xlink:href="#logoMaxi" /></svg></div>
+    <div id="lmidi"><svg style="width:12em;height:3.6em" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1500" height="1600" viewBox="400 15 330 352"><use xlink:href="#logoMidi" /></svg></div>
+   </a>
+	</div>
+ </div>
+ <div id="qs1" class="qson">
+  <form id="sf2" method=get action="/search.phtml"><div id="sf1" style="display:flex;align-items:stretch">
+	<div><input class="tf" id="qi1" size=200 type="text" name="q" placeholder="Поиск: автор и/или название произведения" value=""></div>
+	<div id="sb" class="sb" style="">
+	<input id="ss" type="submit" value="Найти"><span id="smg"><svg id="sb1" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="60 0 115 140">
+<use xlink:href="#mglass" /></svg></span></div></div></form></div>
+<div id="sm" class="m"><a style="width:1.2em;white-space:nowrap" href="#" class="ma" onclick="toggle_sf();">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="65 18 115 115"><use xlink:href="#mglass" /></svg>
+</a></div>
+<div class="m"><a href="/author.html" class="ma">Авторы</a></div>
+<div class="spce">&nbsp;</div>
+</div>
+<div id="ex" class="l">
+<div id="lft0">
+<div style="display:flex;justify-content:space-between;flex-direction:column">
+<div id="ttop">
+<div id="tyad" style="display:none"><div id="tya"><div id="ty"></div></div>
+<script>
+if (ge('lft0').offsetWidth > 599) {
+	ge('tyad').style.display="block";
+		window.yaContextCb.push(()=>{
+		Ya.Context.AdvManager.render({
+		    renderTo: 'ty',
+		    blockId: 'R-A-447573-2'
+		  })
+		})
+}
+</script>
+</div>
+<div id="lft">
+
+	<div id="text" class="t hya">
+	<div id="thdr" class="thdr">
+<a href="/author/dostoevski/index.html">Ф. М. Достоевский</a>. <a href="/text/1544/index.html">Бесы</a>. <a href="/text/1544/p.1/index.html">Часть первая</a>. <a href="/text/1544/p.18/index.html">Глава третья</a></div>
+<h4>III</h4>
+<span class="p"><span class=fi></span>Но на этот раз, к удивлению моему, я застал его в чрезвычайной перемене. Он, правда, с какой-то жадностию набросился на меня, только что я вошел, и стал меня слушать, но с таким растерянным видом, что сначала, видимо, не понимал моих слов. Но только что я произнес имя Кармазинова, он совершенно вдруг вышел из себя.</span>
+<span class="p"><span class=fi></span>&mdash; Не говорите мне, не произносите! &mdash; воскликнул он чуть не в бешенстве, &mdash; вот, вот смотрите, читайте! читайте!</span>
+<span class="p"><span class=fi></span>Он выдвинул ящик и выбросил на стол три небольшие клочка бумаги, писанные наскоро карандашом, все от Варвары Петровны. Первая записка была от третьего дня, вторая от вчерашнего, а последняя пришла сегодня, всего час назад; содержания самого пустого, все о Кармазинове, и обличали суетное и честолюбивое волнение Варвары Петровны от страха, что Кармазинов забудет ей сделать визит. Вот первая, от третьего дня (вероятно, была и от четвертого дня, а может быть, и от пятого):</span>
+<div class="letter">
+<span class="p"><span class=fi></span>&laquo;Если он наконец удостоит вас сегодня, то обо мне, прошу, ни слова. Ни малейшего намека. Не заговаривайте и не напоминайте.</span>
+<div class="letter_signature">В. С.&raquo;</div>
+</div>
+<span class="p"><span class=fi></span>Вчерашняя:</span>
+<div class="letter">
+<span class="p"><span class=fi></span>&laquo;Если он решится наконец сегодня утром вам сделать визит, всего благороднее, я думаю, совсем не принять его. Так по-моему, не знаю, как по-вашему.</span>
+<div class="letter_signature">В. С.&raquo;</div>
+</div>
+<span class="p"><span class=fi></span>Сегодняшняя, последняя:</span>
+<div class="letter">
+<span class="p"><span class=fi></span>&laquo;Я убеждена, что у вас сору целый воз и дым столбом от табаку. Я вам пришлю Марью и Фомушку; они в полчаса приберут. А вы не мешайте и посидите в кухне, пока прибирают. Посылаю бухарский ковер и две китайские вазы: давно собиралась вам подарить, и сверх того моего Теньера (на время). Вазы можно поставить на окошко, а Теньера повесьте справа над портретом Гете, там виднее и по утрам всегда свет. Если он наконец появится, примите утонченно вежливо, но постарайтесь говорить о пустяках, об чем-нибудь ученом, и с таким видом, как будто вы вчера только расстались. Обо мне ни слова. Может быть, зайду взглянуть у вас вечером.</span>
+<div class="letter_signature">В. С.</div>
+<span class="p"><span class=fi></span>P. S. Если и сегодня не приедет, то совсем не приедет&raquo;.</span>
+</div>
+<span class="p"><span class=fi></span>Я прочел и удивился, что он в таком волнении от таких пустяков. Взглянув на него вопросительно, я вдруг заметил, что он, пока я читал, успел переменить свой всегдашний белый галстук на красный. Шляпа и палка его лежали на столе. Сам же был бледен, и даже руки его дрожали.</span>
+<span class="p"><span class=fi></span>&mdash; Я знать не хочу ее волнений! &mdash; исступленно вскричал он, отвечая на мой вопросительный взгляд. &mdash; Je m'en fiche!<span class=fnref><sup>&nbsp;<a class=fnref href="#fn1" name="fns1">1</a></sup></span> Она имеет дух волноваться о Кармазинове, а мне на мои письма не отвечает! Вот, вот нераспечатанное письмо мое, которое она вчера воротила мне, вот тут на столе, под книгой, под &laquo;L'homme qui rit&raquo;.<span class=fnref><sup>&nbsp;<a class=fnref href="#fn2" name="fns2">2</a></sup></span> Какое мне дело, что она убивается о Ни-ко-леньке! Je m'en fiche et je proclame ma libert&eacute;. Au diable le Karmazinoff! Au diable la Lembke!<span class=fnref><sup>&nbsp;<a class=fnref href="#fn3" name="fns3">3</a></sup></span> Я вазы спрятал в переднюю, а Теньера в комод, а от нее потребовал, чтоб она сейчас же приняла меня. Слышите: потребовал! Я послал ей такой же клочок бумаги, карандашом, незапечатанный, с Настасьей, и жду. Я хочу, чтобы Дарья Павловна сама объявила мне из своих уст и пред лицом неба, или по крайней мере пред вами. Vous me seconderez, n'est ce pas, comme ami et t&eacute;moin.<span class=fnref><sup>&nbsp;<a class=fnref href="#fn4" name="fns4">4</a></sup></span> Я не хочу краснеть, я не хочу лгать, я не хочу тайн, я не допущу тайн в этом деле! Пусть мне во всем признаются, откровенно, простодушно, благородно, и тогда... тогда я, может быть, удивлю всё поколение великодушием!.. Подлец я или нет, милостивый государь? &mdash; заключил он вдруг, грозно смотря на меня, как будто я-то и считал его подлецом.</span>
+<span class="p"><span class=fi></span>Я попросил его выпить воды; я еще не видал его в таком виде. Всё время, пока говорил, он бегал из угла в угол по комнате, но вдруг остановился предо мной в какой-то необычайной позе.</span>
+<span class="p"><span class=fi></span>&mdash; Неужели вы думаете, &mdash; начал он опять с болезненным высокомерием, оглядывая меня с ног до головы, &mdash; неужели вы можете предположить, что я, Степан Верховенский, не найду в себе столько нравственной силы, чтобы, взяв мою коробку, &mdash; нищенскую коробку мою! &mdash; и взвалив ее на слабые плечи, выйти за ворота и исчезнуть отсюда навеки, когда того потребует честь и великий принцип независимости? Степану Верховенскому не в первый раз отражать деспотизм великодушием, хотя бы и деспотизм сумасшедшей женщины, то есть самый обидный и жестокий деспотизм, какой только может осуществиться на свете, несмотря на то что вы сейчас, кажется, позволили себе усмехнуться словам моим, милостивый государь мой! О, вы не верите, что я смогу найти в себе столько великодушия, чтобы суметь кончить жизнь у купца гувернером или умереть с голоду под забором! Отвечайте, отвечайте немедленно: верите вы или не верите?</span>
+<span class="p"><span class=fi></span>Но я смолчал нарочно. Я даже сделал вид, что не решаюсь обидеть его ответом отрицательным, но не могу отвечать утвердительно. Во всем этом раздражении было нечто такое, что решительно обижало меня, и не лично, о нет! Но... я потом объяснюсь.</span>
+<span class="p"><span class=fi></span>Он даже побледнел.</span>
+<span class="p"><span class=fi></span>&mdash; Может быть, вам скучно со мной, Г&mdash;в (это моя фамилия), и вы бы желали... не приходить ко мне вовсе? &mdash; проговорил он тем тоном бледного спокойствия, который обыкновенно предшествует какому-нибудь необычайному взрыву. Я вскочил в испуге; в то же мгновение вошла Настасья и молча протянула Степану Трофимовичу бумажку, на которой написано было что-то карандашом. Он взглянул и перебросил мне. На бумажке рукой Варвары Петровны написаны были всего только два слова: &laquo;Сидите дома&raquo;.</span>
+<span class="p"><span class=fi></span>Степан Трофимович молча схватил шляпу и палку и быстро пошел из комнаты; я машинально за ним. Вдруг голоса и шум чьих-то скорых шагов послышались в коридоре. Он остановился как пораженный громом.</span>
+<span class="p"><span class=fi></span>&mdash; Это Липутин, и я пропал! &mdash; прошептал он, схватив меня за руку.</span>
+<span class="p"><span class=fi></span>В ту же минуту в комнату вошел Липутин.</span>
+
+<div style="margin:0.5em 0em;background-color:#222;height:1px;width:25%"></div><div class="fns"><div style="text-indent: 0em; float: left; text-align: right; width: 0em;"><span style="width: 2.5em; position: absolute; z-index: 1;"><sup><a class=fnref href="#fns1" name="fn1">1</a></sup></span></div>
+<span class="p"><span class=fi></span>Мне наплевать на это! <i>(франц.).</i><div style="font-size:0;"></div></span><div style="text-indent: 0em; float: left; text-align: right; width: 0em;"><span style="width: 2.5em; position: absolute; z-index: 1;"><sup><a class=fnref href="#fns2" name="fn2">2</a></sup></span></div>
+<span class="p"><span class=fi></span>&laquo;Человек, который смеется&raquo; <i>(франц.)</i><div style="font-size:0;"></div></span><div style="text-indent: 0em; float: left; text-align: right; width: 0em;"><span style="width: 2.5em; position: absolute; z-index: 1;"><sup><a class=fnref href="#fns3" name="fn3">3</a></sup></span></div>
+<span class="p"><span class=fi></span>Мне наплевать на это, и я заявляю о своей свободе. К черту этого Кармазинова! К черту эту Лембке! <i>(франц.).</i><div style="font-size:0;"></div></span><div style="text-indent: 0em; float: left; text-align: right; width: 0em;"><span style="width: 2.5em; position: absolute; z-index: 1;"><sup><a class=fnref href="#fns4" name="fn4">4</a></sup></span></div>
+<span class="p"><span class=fi></span>Вы, не правда ли, мне не откажете в содействии, как друг и свидетель <i>(франц.).</i><div style="font-size:0;"></div></span></div><div id="tbd"></div><div style="height:3em;margin:2em 0em;"><div id="bnbg" class="rbg" style="z-index:2;height:3em;bottom:0px"><div id="bnav" class="bnvin"><a title="Назад" href="/text/1544/p.19/index.html" class="navlink" style="justify-content:flex-start"><div class="ang0"><div class="ang la1"></div><div class="ang la2"></div><div class="ang la2" style="width: 1em"><div class="ha"></div></div></div><div class="navlnktxt">II</div></a><span style="display:block;text-indent:0em;padding:.6em;font-size:90%;white-space:nowrap">20/108</span><a title="Дальше" href="/text/1544/p.21/index.html" class="navlink" style="justify-content:flex-end"><div class="navlnktxt">IV</div><div class="ang0" style="width:1.2em"><div class="ang ra1"></div><div class="ang ra2"></div><div class="ang la2" style="border-right-color:transparent;width: 1em"><div  class="ha"></div></div></div></a></div></div></div><div style="height:2em;text-indent:0em;text-align:center"><a class="bttn" href="/text/1544/index.html">о тексте/оглавление</a></div></div><div id="s" style="height:0em"></div>
+<div style="margin:1em -6px;text-align:center">
+<div id="yar"></div>
+</div>
+
+
+
+<script type="text/javascript">
+ pagecontext="text1";
+</script>
+</div></div><div id="tbtm">&copy; Это произведение перешло в общественное достояние. Произведение написано автором, умершим более семидесяти лет назад, и опубликовано прижизненно, либо посмертно, но с момента публикации также прошло более семидесяти лет. Оно может свободно использоваться любым лицом без чьего-либо согласия или разрешения и без выплаты авторского вознаграждения.</div></div></div>
+
+<div id="f_r1" style="background-color:#e6e0d3;background-image:url(/i/dark_bg_oldpaper.gif);background-position-x:right;">
+<div style="display:flex;height:100%;border-left:1px solid #7f7f96;padding:0em"><div id="in" style="display:flex;flex-direction:column;justify-content:space-between;align-items:center;width:100%">
+<div id="bn1" style="height:100%;width:100%"><div style="position:sticky;top:0em"><div style="padding:.5em 0em;">
+<div style="position:relative;text-align:center;">
+<div id="right-rectangle-stick-1" style="display:inline-block;max-width:400px"></div>
+<script>
+ var user = Object();
+user.paid = false;wx=ow(ge('in'));
+var ry=0;
+displayAd(wx, 610, 'r_top','right-rectangle-stick-1');
+
+
+function gr(e){return e.getBoundingClientRect();}
+</script>
+<div id="gglad" style="display:inline-block;max-width:400px"></div>
+</div></div></div></div>
+<div id="bn2" style="height:100%;width:100%">
+ <div style="position:sticky;top:0em"><div style="padding:.5em 0em">
+  <div style="text-align:center">
+	 <div id="right-rectangle-stick-2" style="display:inline-block;max-width:400px"></div>
+   <div id="btmad" style="display:inline-block;max-width:400px"></div>
+<script>
+   hx=oh(ge('lft'));
+	 displayAd(wx,hx-660,'r_bot','btmad');
+ </script>
+	</div>
+ </div></div>
+</div>
+</div></div>
+</div>
+</div>
+
+</div>
+</div><div id="btmex">
+<div class="btm">
+<div class="copy">
+<div class="bm"><span class="bmi">Email: <a href="mailto:otklik@ilibrary.ru">otklik@ilibrary.ru</a></span><span class="bmi"><a href="/aboutilibrary/">О библиотеке</a></span><span class="bmi"><a href="/reklama.phtml">Реклама на сайте</a></span></div>
+<div>&copy;1996&#151;2023 Алексей Комаров. Подборка&nbsp;произведений, оформление, программирование.</div>
+</div>
+<div id="cntrs">
+<div style="margin:1em">
+<script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t18.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script>
+<a href="https://metrika.yandex.ru/stat/?id=5179000&amp;from=informer" target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/5179000/3_0_FFFFF0FF_E0E0D0FF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="5179000" data-lang="ru" /></a>
+<script type="text/javascript" >   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(5179000, "init", {clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});</script><noscript><div><img src="https://mc.yandex.ru/watch/5179000" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+</div></div></div></div><script>
+var bscript=document.createElement('script');
+if (lgl==2) bscript.src="/rightbanners_rox3_1.js"; else bscript.src="/rightbanners3_2.js";
+document.head.appendChild(bscript);
+
+function setAd(){
+t_e=ge("text");var ty_e=ge("tyad");
+if(ty_e){if (ow(t_e)>=600)ty_e.style.display="block";else ty_e.style.display="none";}
+}
+function setPoems(){
+t_e=ge("text");
+if(typeof t_e !== 'undefined'){
+var tw=ow(t_e);
+var ss='';
+if(tw>240)for(var i in poems){
+var vls=poems[i].getElementsByClassName("vl");
+var vlim=16;var rsq=0;var lsq=0;var vlmax=0;var invr=0;var invl=0;
+if(vls.length<vlim)vlim=vls.length;
+vlmax=ow(poems[i]);
+for(var j=0;j<vlim;j++){var vlw=ow(vls[j]);if(vlw>vlmax)vlmax=vlw;}
+for(var j=0;j<vlim;j++){var vlw=ow(vls[j]);if(vlw>vlmax/3)rsq+=ow(poems[i])-vlw;else invr++;pdl=getComputedStyle(vls[j]).paddingLeft;pdl=parseFloat(pdl.slice(0,-2));if(pdl<vlmax*.67)lsq+=pdl;else invl++;}
+var width1=rsq/(vlim-invr)/2-lsq/(vlim-invl)/2;
+if(width1+vlmax>tw)width1=tw-vlmax;
+var pmid='#'+poems[i].id;
+ss+=pmid+' div,'+pmid+' h1,'+pmid+' h2,'+pmid+' h3,'+pmid+' h4,'+pmid+' h5 {margin-left:-'+width1+'px;}'+pmid+' .pmm {padding-left:'+width1+'px;margin:0em}'+pmid+' .pm {padding-left:'+width1+'px}';
+}
+pss=document.createElement('style');
+pss.innerHTML=ss;
+document.querySelector('head').appendChild(pss);
+}
+}
+function cleanRules(){if(typeof t_e !=='undefined'){if(ow(ge("text"))>240)pss.parentNode.removeChild(pss);}}
+tbd_e=ge("tbd");
+bnbg_e=ge("bnbg");
+function setArrows(){
+for(var i in lbs){yf=oh(lbcs[i])/oh(lbs[i])*1.2;xf=1+yf/5;lbs[i].style.transform='scale('+xf+','+yf+')';}
+for(var i in rbs){yf=oh(rbcs[i])/oh(rbs[i])*1.2;xf=1+yf/5;rbs[i].style.transform='scale('+xf+','+yf+')';}
+if(bnbg_e != null)if(gr(tbd_e).bottom<document.body.clientHeight-16.8*4)bnbg_e.className="bnv";else bnbg_e.className="rbg";
+}
+setArrows();setPoems();
+window.onscroll=function(){setArrows();}
+
+window.addEventListener('resize',function(){
+	if (typeof(setArrows)!=='undefined') setArrows();
+	if (typeof(cleanRules)!=='undefined') cleanRules();
+	if (typeof(setPoems)!=='undefined') setPoems();
+	if (typeof(setAd)!=='undefined') setAd();
+});
+window.addEventListener('load',function(){showBtmAd();});
+
+</script>
+</div>
+</BODY>
+</HTML>
